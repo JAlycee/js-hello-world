@@ -5,6 +5,13 @@ to the console (the panel on the right)
 */
 
 console.log("Hello");
+console.log("I Love You");
+console.log("5"+"2");
+console.log("2");
+console.log("5+2");
+console.log("I Love You"+" to the moon and back");
+console.log('"I Love You"');
+console.log("Me"+"+Launchcode"+"=A Brighter Future!");
 
 /*  
 Next, PLAY! 
